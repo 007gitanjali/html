@@ -1,0 +1,17 @@
+#
+#
+#
+
+# Generar la web covid-19.alternativaporsantomera.com
+
+git clone XML-to-bootstrap
+
+grunt install
+
+cd scr
+
+git clone alternativa/html/covid-19
+
+grunt init
+
+localhost:80000
